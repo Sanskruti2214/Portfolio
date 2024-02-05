@@ -2,7 +2,7 @@ export const MenuItems=[
     
     {
         title:"About",
-        url:"/",
+        url:"/about",
         cName:"nav-links",
         icon: "fa-solid fa-circle-info"
     },
