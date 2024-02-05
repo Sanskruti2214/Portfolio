@@ -1,0 +1,35 @@
+.Hero{
+    position:absolute;
+    left:18.8%;
+    top:2.6%;
+    width:80%;
+    height:700px;
+    border-radius: 15px;
+    box-shadow: 0 5px 15px 0 rgba(255, 255, 255, 0.25);
+    /* box-shadow:  5px 15px 0 aqua; */
+    /* border:2px solid aqua; */
+    float:left;
+    z-index:-1;
+
+}
+.Hero h1{
+    font-weight: 500;
+    padding-left: 26px;
+    padding-bottom: 0px;
+    margin-bottom: 0px;
+}
+.underline{
+    width:2%;
+    height:5px;
+    margin-left:22px;
+    border-radius: 15px;
+    background-color: aqua;
+}
+@media screen and (max-width: 850px){
+    .Hero{
+        position:absolute;
+        left:18.8%;
+        top:3%;
+        width:80%;
+    }
+}

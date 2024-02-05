@@ -1,0 +1,64 @@
+.About-me{
+    position: absolute; 
+    top: 68px;
+    left: 250px;
+    width:79%;
+    margin: 20px; 
+    padding-left: 10px; 
+    padding-top:0px;
+    display:block;
+    /* border:2px solid white; */
+}
+
+.me{
+    font-size: 1.3rem;
+    color:rgb(249, 249, 100);
+    /* font-weight: 100; */
+    margin-bottom:28px;
+    margin-left:1.5em;
+    /* border:2px solid white; */
+}
+.done{
+    font-size: 1.8rem;
+    margin-left:1em;
+    margin-bottom:4rem;
+}
+.doing{
+    height:70%;
+    margin:3px;
+    display:block;
+    /* border:2px solid white; */
+}
+.class1{
+    display:inline-block;
+    font-size: 1.6rem;
+    font-weight: 400;
+    border:1px solid rgb(249, 249, 100);
+    border-radius: 12px;
+    width:44%;
+    height:80px;
+    margin-left:1.4rem;
+    margin-bottom:15px;
+}
+.class1:hover{
+    width:42%;
+    height:81px;
+    cursor:pointer;
+    color:aqua;
+}
+.class1 i{
+    color:rgb(249, 249, 100);
+    margin:12px;
+    font-size: 2rem;
+    font-weight:700;
+}
+.class1 i:hover{
+    cursor:pointer;
+    color:aqua;
+}
+@media screen and (max-width: 850px){
+    .About-me{
+        display: none;
+    }
+}
+
