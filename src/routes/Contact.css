@@ -24,7 +24,7 @@
 }
 .details{
     position: absolute; 
-    top: 290px;
+    top: 250px;
     left: 310px;
     width:76%;
     height:400px;
@@ -33,6 +33,7 @@
     /* border:2px solid green; */
 }
 .block1{
+    text-align: center;
     font-size: 1.8rem;
     margin-bottom: 30px;
 }
@@ -94,11 +95,11 @@
     background-color:aqua;
 }
 .moveanimation{
-    margin-top:80px;
+    margin-top:200px;
     color:aqua;
     font-size: 2rem;
     animation-name: move;
-    animation-duration: 2.4s;
+    animation-duration: 3s;
     animation-timing-function: ease-out;
     animation-iteration-count: infinite;
 }
@@ -107,6 +108,6 @@
         margin-left:0px;
     }
     to{
-        margin-left:970px;
+        margin-left:950px;
     }
 }

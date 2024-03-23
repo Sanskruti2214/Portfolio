@@ -19,13 +19,16 @@
     /* border:2px solid white; */
 }
 .done{
+    margin-top:3rem;
     font-size: 1.8rem;
     margin-left:1em;
     margin-bottom:4rem;
 }
 .doing{
-    height:70%;
-    margin:3px;
+    margin-top:2rem;
+    height:78%;
+    /* margin:1px; */
+    padding:4px;
     display:block;
     /* border:2px solid white; */
 }
@@ -35,13 +38,13 @@
     font-weight: 400;
     border:1px solid rgb(249, 249, 100);
     border-radius: 12px;
-    width:44%;
+    width:45%;
     height:80px;
     margin-left:1.4rem;
     margin-bottom:15px;
 }
 .class1:hover{
-    width:42%;
+    width:46%;
     height:81px;
     cursor:pointer;
     color:aqua;

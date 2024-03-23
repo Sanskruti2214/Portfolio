@@ -13,15 +13,14 @@ export default function Skills(props) {
                     Programming Languages
                     <ul>
                         <li>Java</li>
+                        <li>C Language</li>
                         <li>Python</li>
-                        <li>JavaScript</li>
                     </ul>
                 </div>
                 <div className="skill">
                     Databases, Tools and Technologies
                     <ul>
                         <li>Mysql</li>
-                        <li> MongoDB</li>
                         <li>Git/GitHub</li>
                         <li>IntelliJ & Vscode</li>
                     </ul>

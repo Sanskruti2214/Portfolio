@@ -10,10 +10,10 @@ export default function About(props) {
             <div className="About-me">
                 <div className="me">
                     <p>
-                        I'm a dedicated third-year Computer Engineering student at Vishwakarma Institute of Information Technology, where I've consistently achieved a high academic standing with a notable CGPA of 9.48. My proficiency spans essential programming languages such as Java, JavaScript, and Python, complemented by a solid understanding of the ReactJS framework for web development. I've successfully applied this knowledge to various projects, showcasing adaptability, innovative problem-solving, and a commitment to delivering comprehensive solutions.
+                    I am a dedicated third-year Computer Science student at BRACT's Vishwakarma Institute of Information Technology, I boast a strong academic record, achieving a second-year CGPA of 9.48. 
                     </p>
                     <p>
-                        My true passion lies in the exciting intersection of artificial intelligence and machine learning. Eager to explore this dynamic realm, I'm actively seeking opportunities to contribute to AI/ML projects. I find the prospect of leveraging technology to solve complex problems both intellectually stimulating and incredibly rewarding. As I look ahead, I'm enthusiastic about channeling my skills and experience into making a meaningful impact in the tech industry, particularly within the evolving landscape of AI/ML and software development.
+                    My interests revolve around cutting-edge technologies such as AI/ML, web development, and Data Structures and Algorithms (DSA). I am deeply engaged in Data Structures and Algorithms (DSA), actively tackling and solving related problems as part of my ongoing learning and exploration. With a hunger for knowledge and a passion for innovation, I am eager to collaborate on impactful projects and contribute to the advancement of technology. Rooted in a solid understanding of computer science fundamentals, I am committed to continuous learning and growth in this dynamic field, actively seeking opportunities to contribute and expand my skills.
                     </p>
                 </div>
                 <span className='done'>What I am doing ?</span>
@@ -25,7 +25,7 @@ export default function About(props) {
                         <i className="fa-regular fa-file-code "></i>Web Development
                     </div>
                     <div className="class1">
-                        <i className="fa-solid fa-chalkboard-user"></i>AI/ML 
+                        <i className="fa-solid fa-chalkboard-user"></i>Artificial Intelligence/Machine Learning 
                     </div>
                 </div>
             </div>
