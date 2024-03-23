@@ -3,13 +3,13 @@ import photo from '../images/photo.jpeg';
 import './NavbarStyle.css';
 import { MenuItems } from './MenuItems';
 import { Link } from 'react-router-dom';
-import { useState, useEffect } from 'react';
+import { useState} from 'react';
 
 export default function Navbar() {
-  let [showHome, HideHome] = useState(true)
-  const effect = () => {
-    HideHome(!showHome);
-  };
+  // let [showHome, HideHome] = useState(true)
+  // const effect = () => {
+  //   HideHome(!showHome);
+  // };
   return (
     <>
       <div className="navbar">
