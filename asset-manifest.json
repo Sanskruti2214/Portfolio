@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/static/css/main.e7c2b66a.css",
-    "main.js": "/static/js/main.c4c29791.js",
-    "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
-    "static/media/obesitygraphic.jpg": "/static/media/obesitygraphic.2303e4b2d816a6ca3271.jpg",
-    "static/media/digitR.png": "/static/media/digitR.021a4afa6bafb1a87488.png",
-    "static/media/CovidDetection.jpg": "/static/media/CovidDetection.f46d507396794a15c85d.jpg",
-    "static/media/photo.jpeg": "/static/media/photo.818cc8d6505cbe41fd5d.jpeg",
-    "static/media/Sudokuimg.png": "/static/media/Sudokuimg.a894737f171af64fcec1.png",
-    "static/media/FaceMask.jpg": "/static/media/FaceMask.b5e4f4e8a5bf10f08195.jpg",
-    "static/media/EEG.jpg": "/static/media/EEG.d6f328853ac3ca194ae5.jpg",
-    "static/media/sudoku.jpg": "/static/media/sudoku.aa757c9f3a1d8826d2cf.jpg",
-    "index.html": "/index.html",
-    "main.e7c2b66a.css.map": "/static/css/main.e7c2b66a.css.map",
-    "main.c4c29791.js.map": "/static/js/main.c4c29791.js.map",
-    "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
+    "main.css": "/Portfolio/static/css/main.e7c2b66a.css",
+    "main.js": "/Portfolio/static/js/main.488cbdc7.js",
+    "static/js/787.7da95b79.chunk.js": "/Portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/obesitygraphic.jpg": "/Portfolio/static/media/obesitygraphic.2303e4b2d816a6ca3271.jpg",
+    "static/media/digitR.png": "/Portfolio/static/media/digitR.021a4afa6bafb1a87488.png",
+    "static/media/CovidDetection.jpg": "/Portfolio/static/media/CovidDetection.f46d507396794a15c85d.jpg",
+    "static/media/photo.jpeg": "/Portfolio/static/media/photo.818cc8d6505cbe41fd5d.jpeg",
+    "static/media/Sudokuimg.png": "/Portfolio/static/media/Sudokuimg.a894737f171af64fcec1.png",
+    "static/media/FaceMask.jpg": "/Portfolio/static/media/FaceMask.b5e4f4e8a5bf10f08195.jpg",
+    "static/media/EEG.jpg": "/Portfolio/static/media/EEG.d6f328853ac3ca194ae5.jpg",
+    "static/media/sudoku.jpg": "/Portfolio/static/media/sudoku.aa757c9f3a1d8826d2cf.jpg",
+    "index.html": "/Portfolio/index.html",
+    "main.e7c2b66a.css.map": "/Portfolio/static/css/main.e7c2b66a.css.map",
+    "main.488cbdc7.js.map": "/Portfolio/static/js/main.488cbdc7.js.map",
+    "787.7da95b79.chunk.js.map": "/Portfolio/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e7c2b66a.css",
-    "static/js/main.c4c29791.js"
+    "static/js/main.488cbdc7.js"
   ]
 }
